@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Kallpa Web</title>
+<style>
+body { background: #111; color: #fff; font-family: Arial; text-align:center; padding:40px; }
+.card { background:#222; padding:20px; border-radius:15px; max-width:420px; margin:auto; }
+</style>
+</head>
+<body>
+<div class="card">
+<h1>Bienvenido a la Web de Kallpa</h1>
+<p>Página creada desde celular, presupuesto 0 y visión grande.</p>
+</div>
+</body>
+</html>
